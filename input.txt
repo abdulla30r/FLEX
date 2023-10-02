@@ -1,0 +1,32 @@
+SHURU
+VOGNO a=87.99,b
+NAO b
+DAO b
+
+LOOP
+SHORTO a<500
+INC a += b
+    a=b
+    NAO d
+POOL
+
+JODI
+SHORTO a<500
+HOY
+    a=b
+    f=3
+NAHOY
+    jfa=fabn
+IDOJ
+
+ax=b
+sf=4
+fa=fafa
+
+<--
+This is a multicomment
+jgjk
+-->
+
+#this is a single comment
+SHESH
